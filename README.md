@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4dc3ff,100:4a47ff&height=180&text=Welcome%20to%20the%20world%20of%20future%20creation.&animation=&fontColor=365dd3&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4dc3ff,100:4a47ff&height=180&text=Welcome%20to%20the%20world%20of%20future%20creation.&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 미래를 이끄는 개발자 허온입니다. </h2>  
@@ -34,7 +34,8 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=KDev-Huh&bg_color=60,c3c2ff,1a71ff&title_color=1d3b96&text_color=1d3b96"
-         />  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=KDev-Huh&bg_color=60,c3c2ff,1a71ff&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDev-Huh&layout=compact&bg_color=60,c3c2ff,1a71ff&title_color=ffffff&text_color=ffffff"
+           /> </div> 
     </div>
     
