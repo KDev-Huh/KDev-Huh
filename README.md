@@ -33,8 +33,9 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=KDev-Huh&bg_color=60,c3c2ff,1a71ff&title_color=ffffff&text_color=ffffff"
-         />  </div> 
+    <div align="center">
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=KDev-Huh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1&custom_title=Future%20world%20Stats" height="150" alt="stats graph"  />
+      <img src="https://streak-stats.demolab.com?user=KDev-Huh&locale=en&mode=weekly&theme=prussian&hide_border=false&border_radius=6&order=3" height="169" alt="streak graph"  />
     </div>
     
