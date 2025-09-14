@@ -7,13 +7,16 @@
     </div>
     <div align= "center">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ My stack, my power. </h2> <br> 
-        <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+        <div style="margin: 0 auto; text-align: center;" align= "center">
             <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
             <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
             <br>
             <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
             <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
             <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+            <br>
+            <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+            <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
         </div>
     </div>
     <div align= "center">
