@@ -32,7 +32,7 @@
       <img src="https://streak-stats.demolab.com?user=KDev-Huh&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=6&order=3" height="169" alt="streak graph"  />
     </div>
     <p align="center">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4dc3ff,100:4a47ff&height=100&section=footer"/>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=100:4a47ff,0:4dc3ff&height=100&section=footer"/>
     </p>
 
     
