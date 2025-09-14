@@ -29,6 +29,6 @@
     </div>
     <div align="center">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 My coding journey, visualized. </h2>
-      <img src="https://streak-stats.demolab.com?user=KDev-Huh&locale=en&mode=weekly&theme=prussian&hide_border=false&border_radius=6&order=3" height="169" alt="streak graph"  />
+      <img src="https://streak-stats.demolab.com?user=KDev-Huh&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=6&order=3" height="169" alt="streak graph"  />
     </div>
     
