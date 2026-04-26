@@ -11,8 +11,6 @@
     <span style="font-weight: 600;">성장을 증명</span>하는 전례 없는 ML 엔지니어입니다.</span>
 </div>
 
-<hr>
-
 ## Tech Stack
 <span style="font-weight: 200;">
 <span style="font-weight: 600;">AI:</span> Python C++ Pandas NumPy scikit-learn TensorFlow YOLOv8 YOLO11-pose<br>
@@ -31,8 +29,6 @@
 
 Github: https://kdev-huh.kr/athenix/github
 
----
-
 ### 🍎 복잡하던 자습 감독 업무는 그만, 교내 자습 감독 도우미 TeachMon
 > 자습 감독(야자감독) 시 사용하고 계시는 구글 시트의 불편한 점들을 해결하기 위해 자습 감독과 관련된 모든 업무를 편리하게 처리할 수 있도록 만든 서비스입니다.
 
@@ -44,8 +40,6 @@ Github: https://kdev-huh.kr/athenix/github
 Deploy: https://teachmon.kro.kr
 Github: https://kdev-huh.kr/athenix/github
 
----
-
 ### 🍎 축구는 장비빨, 자신에게 알맞은 최적의 축구화 추천 Gearmind
 > 축구화는 소재, 인솔, 스터드 등 세밀한 요소에 따라 퍼포먼스 향상과 부상 방지에 결정적인 역할을 합니다. Gearmind는 축구화 선택에 어려움을 느끼는 선수를 위해, 개인의 축구 데이터를 분석하여 가장 적합한 모델을 매칭해 주는 맞춤형 서비스입니다.
 
@@ -55,8 +49,6 @@ Github: https://kdev-huh.kr/athenix/github
 - ONNX 모델 변환 및 C++ 클래스 구현을 통한 AI 모델 자원화 및 API 구축
 
 Github: https://kdev-huh.kr/gearmind/github
-
----
 
 ### 세상을 바꾼 3개의 사과가 있습니다.
 1.이브의 사과   2.뉴턴의 사과   3.세잔의 사과<br>
@@ -77,7 +69,5 @@ Github: https://kdev-huh.kr/gearmind/github
 <span style="font-weight: 600;">Portfolio:</span> 
     <a href="https://kdev-huh.kr">https://kdev-huh.kr</a><br>
 </span>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a47ff,100:4dc3ff&height=120&section=footer"/>
