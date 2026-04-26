@@ -10,7 +10,6 @@
     <span style="font-weight: 600;">끈기와 노력의 힘</span>으로<br>
     <span style="font-weight: 600;">성장을 증명</span>하는 전례 없는 ML 엔지니어입니다.</span>
 </div>
-<br>
 
 ## Tech Stack
 <span style="font-weight: 200;">
@@ -60,7 +59,7 @@ Github: https://kdev-huh.kr/gearmind/github
 이 사과들의 공통점은 기존 패러다임을 바꾸고 인류 문명의 새 장을 열었다는 점입니다.<br>
 저는 한가지의 공통점을 더 보았습니다. 모두 기존의 사과를 관찰하고 경험했다는 점입니다.<br>
 하지만 사과가 없었다면 이런 문명의 전환이 있었을까요..?<br>
-## 저는 사과를 만드는 사과나무가 되겠습니다.
+### 저는 사과를 만드는 사과나무가 되겠습니다.
 
 </div>
 <br>
