@@ -1,45 +1,91 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4dc3ff,100:4a47ff&height=240&text=Welcome%20to%20the%20world%20of%20future%20creation.&animation=&fontColor=ffffff&fontSize=40" />
-</div>
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 미래를 이끄는 개발자 허온입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 인간의 더 나은 삶을 위해 미래를 이끌고자 노력하는 개발자입니다. </div> 
-</div>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ My stack, my power. </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center">
-        <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-        <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    </div>
-</div>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Let's create the future. </h2> <br> 
-    <div align= "center"> 
-        <a href=https://www.instagram.com/huh._.on08/>
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/huh._.on08/">
-        </a>
-        <a href=https://velog.io/@huhon>
-            <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@huhon">
-        </a>
-        <a href=mailto:huhonmcmc@gmail.com>
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:huhonmcmc@gmail.com">
-        </a>
-    </div>
-    <br> 
-    <div align= "center">
-    </div>
-</div>
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 My coding journey, visualized. </h2>
-    <img src="https://streak-stats.demolab.com?user=KDev-Huh&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=6&order=3" height="169" alt="streak graph"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4dc3ff,100:4a47ff&height=240&text=Do%20Like%20Never%20Before&fontColor=ffffff&fontSize=45" />
+
+# 안녕하세요, 전례 없는 ML 엔지니어 허온입니다.
+
+**땀에 젖은 유니폼, 그것이 내가 보여줄 수 있는 전부다.**
+
 </div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a47ff,100:4dc3ff&height=100&section=footer"/>
-</p>
+
+---
+
+## About Me
+
+- 축구선수 생활을 통해 배운 끈기와 노력의 힘으로 성장을 증명하는 전례 없는 ML 엔지니어입니다.
+- 단순 모델을 사용하는것이 아니라 이해하고 설계하는 ML 엔지니어입니다.
+
+---
+
+## Projects
+
+### ⚽️ 누구든지 방구석에서, AI 기반 축구 분석가 Athenix
+> 전문 분석가의 피드백을 받는 프로 선수들과 달리, 여러 제약으로 피드백을 받기 힘든 선수들을 위해 누구나 어디서든 AI로 전문적인 분석과 피드백을 받을 수 있도록 만든 서비스입니다.
+
+- 전체 시스템 1인 개발 (프론트엔드, 백엔드, AI End-to-End)
+- 객체 탐지 (YOLOv8) + 좌표변환 (Homography)으로 축구 영상 분석 AI 파이프라인 설계 및 구현
+- 유사 장면 검색 모델 (KNN) + 가치 평가 모델 (VAEP)로 좋은 플레이 추천 로직 설계 및 구현
+- OpenAI API 기반 설명 생성 기능 구현
+
+Github: https://kdev-huh.kr/athenix/github
+
+---
+
+### 🏫 복잡하던 자습 감독 업무는 그만, 교내 자습 감독 도우미 TeachMon
+> 자습 감독(야자감독) 시 사용하고 계시는 구글 시트의 불편한 점들을 해결하기 위해 자습 감독과 관련된 모든 업무를 편리하게 처리할 수 있도록 만든 서비스입니다.
+
+- 정확도 99.4% Random Forest 기반 AI 자동 배정 시스템 직접 구현
+- AI 모델 학습 데이터 구축을 위한 전처리 파이프라인 구축
+- Strategy, Composite 패턴 기반 구조로 결합도 감소 및 응집도 향상
+- FastAPI를 활용한 API 기반 AI 모델 서빙 서버 구축
+
+Deploy: https://teachmon.kro.kr
+Github: https://kdev-huh.kr/athenix/github
+
+---
+
+### 👟 축구는 장비빨, 자신에게 알맞은 최적의 축구화 추천 Gearmind
+> 축구화는 소재, 인솔, 스터드 등 세밀한 요소에 따라 퍼포먼스 향상과 부상 방지에 결정적인 역할을 합니다. Gearmind는 축구화 선택에 어려움을 느끼는 선수를 위해, 개인의 축구 데이터를 분석하여 가장 적합한 모델을 매칭해 주는 맞춤형 서비스입니다.
+
+- 웹 크롤링을 통해 축구화 데이터 수집 및 LoRA 학습용 포맷 변환
+- 나이브 베이즈 & Random Forest 모델 구현 및 비교 분석
+- SMOTE (수치형), KNN (텍스트/리스트) 기반 오버샘플링 진행
+- ONNX 모델 변환 및 C++ 클래스 구현을 통한 AI 모델 자원화 및 API 구축
+
+Github: https://kdev-huh.kr/gearmind/github
+
+---
+
+## Tech Stack
+
+### AI
+`Python` `C++` `Pandas` `NumPy`  
+`scikit-learn` `TensorFlow`  
+`YOLOv8` `YOLO11-pose`
+
+### Backend
+`Java` `Python` `Spring Boot` `FastAPI` `GraphQL`  
+`MySQL` `QueryDSL` `Docker`
+
+<div align="center">
+
+---
+
+### 세상을 바꾼 3개의 사과가 있습니다.
+1.이브의 사과   2.뉴턴의 사과   3.세잔의 사과<br>
+이 사과들의 공통점은 기존 패러다임을 바꾸고 인류 문명의 새 장을 열었다는 점입니다.<br>
+저는 한가지의 공통점을 더 보았습니다. 모두 기존의 사과를 관찰하고 경험했다는 점입니다.<br>
+하지만 사과가 없었다면 이런 문명의 전환이 있었을까요..?<br>
+## 저는 사과를 만드는 사과나무가 되겠습니다.
+
+</div>
+
+## Let's create the future.
+
+- Email: huhonmcmc@gmail.com  
+- GitHub: https://github.com/KDev-Huh  
+- Portfolio: https://kdev-huh.kr  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a47ff,100:4dc3ff&height=120&section=footer"/>
